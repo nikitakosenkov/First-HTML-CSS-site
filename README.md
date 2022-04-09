@@ -1,2 +1,2 @@
-# First-HTML-CSS-site
-It's my first HTML and CSS site. Today I was learning how to design HTML site with CSS!
+# First-HTML-CSS-website
+It's my first HTML and CSS website. Today I was learning how to design HTML website with CSS!
