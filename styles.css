@@ -1,0 +1,96 @@
+body {
+    background-color: rgb(179, 255, 179);
+    color:rgb(0, 88, 0);
+    font-size: 16px;
+    font-weight: 500;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    
+}
+
+.avatar {
+    width: 250px;
+    border-radius: 28px;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.50);
+}
+
+.info p {
+    color:rgb(0, 121, 16);   
+    text-decoration: underline;
+}
+.container {
+    max-width: 750px;
+    margin: auto;
+}
+
+.tag {
+    font-size:100px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow:  4px 4px 14px rgba(66, 66, 66, 0.8);
+    margin: 0px;
+    text-align: center;
+}
+
+.bebra {
+    margin: 0px;
+    text-shadow:  4px 4px 14px rgba(54, 54, 54, 0.8);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.bebr {
+    text-shadow:  4px 4px 14px rgba(54, 54, 54, 0.8);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 20px;
+    margin: 25px;
+}
+.avata {
+    width: 180px;
+    border-radius: 28px;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.50);
+}
+
+.bober {
+    font-size: 16px;
+    margin: 0;
+    margin-left: 15px;
+}
+
+.head {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 0px;
+}
+
+.avat {
+    width:200px;
+    border-radius: 28px;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.50);
+    text-align: center;
+    margin-left: 92px;
+}
+
+.bobe {
+    font-size: 16px;
+    margin: 0;
+    margin-left: 110px;
+    text-align: center;
+}
+
+.ava {
+    width:190px;
+    border-radius: 28px;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.50);
+    margin-left: 79px;
+}
+
+.bob {
+    font-size: 16px;
+    margin: 0;
+    margin-left: 34px;
+}
+
+.wqwq {
+    font-size: 15px;
+}
